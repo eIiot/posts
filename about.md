@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me 
+title: About Me 
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+I create things on the internet, some of which are mildly successful.
