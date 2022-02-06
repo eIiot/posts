@@ -1,19 +1,19 @@
-name: Your New Jekyll Site
-description: Blogging about stuffs
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+name: Eliot Hertenstein
+description: I make things on the internet
+meta_description: "Hi! My name is Eliot. I make stuff on the internet."
 
 markdown: kramdown
 highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /posts
-domain_name: "http://eiiot.github.io"
+domain_name: "https://eliothertenstein.com"
 google_analytics: "UA-XXXXXXXX-X"
 plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url: ""
-author: "Your Name"
-
+url: "https://google.com"
+author: "Eliot Hertenstein"
+author_description: "I make things on the internet"
 # Disqus config
 disqus-shortname: ""

@@ -2,7 +2,7 @@
 layout: default
 title: Home
 cover: false
-about: 'about.html'
+about: 'https://eliothertenstein.com'
 ---
 
 <header class="main-header {% if page.cover %}" style="background-image: url({{ page.cover }}) {%else%}no-cover{% endif %}">
@@ -62,3 +62,11 @@ about: 'about.html'
     {% include pagination.html %}
 
 </main>
+
+<style>
+  .post-excerpt p img {
+    /* make images fit the container */
+    max-width: 100%;
+    height: auto;
+  }
+</style>

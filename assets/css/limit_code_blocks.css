@@ -1,0 +1,5 @@
+.highlight pre { 
+  white-space: pre; 
+  overflow: auto; 
+  max-height: 700px;
+}
