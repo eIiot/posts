@@ -12,6 +12,7 @@ google_analytics: "UA-XXXXXXXX-X"
 plugins:
   - jekyll-seo-tag
   - jekyll-paginate
+permalink: pretty
 
 # Details for the RSS feed generator
 url: "https://eliothertenstein.com/posts"
