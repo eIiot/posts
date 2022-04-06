@@ -15,7 +15,7 @@ plugins:
 permalink: pretty
 
 # Details for the RSS feed generator
-url: "https://posts.eliothertenstein.com/"
+url: "https://posts.eliothertenstein.com"
 author: "Eliot Hertenstein"
 author_description: "I make things on the internet"
 # Disqus config
