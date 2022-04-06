@@ -19,3 +19,11 @@ author: "Eliot Hertenstein"
 author_description: "I make things on the internet"
 # Disqus config
 disqus-shortname: ""
+
+# Defaults
+defaults:
+  - scope:
+      path: "" # empty string for all files
+      type: posts # limit to posts
+    values:
+      is_post: true # automatically set is_post=true for all posts
