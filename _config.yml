@@ -1,6 +1,6 @@
 name: Eliot Hertenstein
 description: I make things on the internet
-meta_description: "Hi! My name is Eliot. I make stuff on the internet."
+meta_description: "Eliot Hertenstein is a developer, and journalist, who enjoys trains, photography, and compaining about Java."
 
 markdown: kramdown
 highlighter: rouge
@@ -9,10 +9,12 @@ paginate: 15
 baseurl: /posts
 domain_name: "https://eliothertenstein.com"
 google_analytics: "UA-XXXXXXXX-X"
-plugins: [jekyll-paginate]
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 # Details for the RSS feed generator
-url: "https://google.com"
+url: "https://eliothertenstein.com/posts"
 author: "Eliot Hertenstein"
 author_description: "I make things on the internet"
 # Disqus config
