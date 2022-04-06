@@ -36,9 +36,13 @@ With the new sidebar comes a brand new mobile view, better supported than ever f
 
 ![The /amtrak page]({{'/assets/images/2022-4-4-therailmap-v2/amtrak-page.png' | relative_url}})
 
-Although it was never really annouced, the has supported live tracking of Amtrak via [amtrak.js](https://github.com/piemadd/amtrak) since [v1.4](https://github.com/eIiot/railmap/releases/tag/v1.4). This releasape includes the major updates to train tracking mentioned above, along with more information about each station! You can see which trains are on their way, and when. Clicking on a train in the side panel will also bring up the relevant train information, and also move the map to the current train location.
+Although it was never really announced, the has supported live tracking of Amtrak via [amtrak.js](https://github.com/piemadd/amtrak) since [v1.4](https://github.com/eIiot/railmap/releases/tag/v1.4). This release includes the major updates to train tracking mentioned above, along with more information about each station! You can see which trains are on their way, and when. Clicking on a train in the side panel will also bring up the relevant train information, and also move the map to the current train location.
 
 ![An Amtrak station displayed on the side panel]({{'/assets/images/2022-4-4-therailmap-v2/amtrak-station-information.png' | relative_url}})
+
+### Visit the site!
+
+All these brand new features are now live at [https://www.therailmap.com/](https://www.therailmap.com/).
 
 ### Thank You!
 
